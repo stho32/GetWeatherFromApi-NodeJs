@@ -1,14 +1,10 @@
-# Using this template to set up a new project
+# Get weather from api - NodeJs
 
-Use the template using on Mac/Linux:
+Calls the free weather api from https://openweathermap.org/api and retrieves
+weather information.
 
-```
-git clone --depth 1 https://github.com/stho32/ProjectTemplate-Empty.git <your-project-dir>
-cd <your-project-dir>
-rm -rf .git/
-git init
-code .
-```
+This is done using nodeJs.
+My current version of nodeJs is: 9.4.0 .
 
 # Project
 
