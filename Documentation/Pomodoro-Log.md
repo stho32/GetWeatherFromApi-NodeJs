@@ -6,5 +6,5 @@
 - 2018-02-05 06:15-07:00
   - now you can use the command line with a city id to get a beautiful and correct output
     (in metric units)
-- 2018-02-06 06:07-
-  - 
+- 2018-02-06 06:07-06:24
+  - command line works as expected now
